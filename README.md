@@ -1,126 +1,38 @@
-# GitHub Portfolio
+# Hi guys 👋, I'm Phuc!
 
-### If you're struggling to create a portfolio website that looks professional, you don't have to search any further. You can use this GitHub Portfolio template to create your very own personalized portfolio using just your GitHub username! The website is designed to be user-friendly and easily customizable, which makes it an ideal solution for developers and freelancers alike.
+![Profile views](https://komarev.com/ghpvc/?username=nguyenminhphuc15&color=blue)
 
----
+## 🚀 About Me
+- 🔭 I’m currently working on **[Exciting Project](https://github.com/nguyenminhphuc15)**
+- 🌱 I’m learning **Software Engineering at SaiGon University**  
+  Current GPA: **3.2/4.0**
+- 👯 I’m looking to collaborate on **Open Source Projects and Enterprise Applications**
+- 💬 Ask me about **Web Development, API Design, and Scalable Systems**
+- 📫 How to reach me: [nguyenphucminh880@gmail.com](mailto:nguyenphucminh880@gmail.com)
+- ⚡ Fun fact: **Coding feels better with a playlist! 🎵**
 
-# Demo :movie_camera:
+## 🌟 Skills
 
-![httpsgithub abusaid me](https://github.com/said7388/github-portfolio/assets/77630868/a331f996-1b4d-451a-941f-a15f5ae6de93)
+### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### **Frameworks**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## View live preview [here](https://my-github-portfolio.netlify.app/)
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
+### **Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
-# Installation :arrow_down:
+### **Other libraries**
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C3E50?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-### You will need to download Git and Node to run this project
+## 🎵 My Hobbies
+- 🎮 I enjoy playing **League of Legends**.
+- 🏆 I’m a big fan of **Esports**!
 
-- [Git](https://git-scm.com/downloads)
-- [Node](https://nodejs.org/en/download/)
+## 📫 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ngmiphuc/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/nguyen.phuc.191857/i)
 
-#### Make sure you have the latest version of both Git and Node on your computer.
-
-```
-node --version
-git --version
-```
-
-## <br />
-
-# Getting Started :dart:
-
-### Fork and Clone the repo
-
-To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
-
-```
-git clone https://github.com/<YOUR GITHUB USERNAME>/github-portfolio.git
-
-cd github-portfolio
-```
-
-### Install packages from the root directory
-
-```bash
-npm install
-# or
-yarn install
-```
-
-Then, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
----
-
-# Usage :joystick:
-
-If you want to use Google Analytics, Please create a new `.env` file from `.env.example` file and provide the value.
-
-Eg:
-
-```env
-NEXT_PUBLIC_GTM = ""
-```
-
-### Now, you have to customize user data in the `data` [folder](https://github.com/said7388/developer-portfolio/tree/main/data).
-
-Eg:
-
-```javascript
-export const userData = {
-  githubUser: "said7388",
-  devUsername: "said7388",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  resume:
-    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
-  skills: [
-    "React",
-    "NextJS",
-    "Redux",
-    "Express",
-    "NestJS",
-    "MySql",
-    "MongoDB",
-    "Postgres",
-    "Docker",
-    "AWS",
-  ],
-  timezone: "+6",
-};
-```
-
----
-
----
-
-# Packages Used :package:
-
-|   Used Package List   |
-| :-------------------: |
-|         next          |
-|  @next/third-parties  |
-|         axios         |
-|      react-icons      |
-| react-github-calendar |
-|         sass          |
-|      tailwindcss      |
-
----
-
-## Disclaimer
-
-In this repository, I have used some open source APIs. All credits go to the owners of those repositories.
